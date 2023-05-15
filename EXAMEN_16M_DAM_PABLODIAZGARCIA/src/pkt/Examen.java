@@ -17,7 +17,6 @@ public class Examen {
 			System.out.println("Tu número " + num + " es impar" );
 		}
 		
-		
 	}
 
 }
